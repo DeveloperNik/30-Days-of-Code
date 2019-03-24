@@ -9,10 +9,10 @@ Given the meal price (base cost of a meal), tip percent (the percentage of the m
 Be sure to use precise values for your calculations, or you may end up with an incorrecly rounded result!
 
 # Input Format
-There are 3 lines of numeric input:
-The first line has a double, <em>mealCost</em> (the cost of the meal before tax and tip).
-The second line has an integer, <em>tipPercent</em> (the percentage of <em>mealCost</em> being added as tip).
-The third line has an integer, <em>taxPercent</em> (the percentage of <em>mealCost</em> being added as tax).
+<p>There are 3 lines of numeric input:</p>
+<p>The first line has a double, <em>mealCost</em> (the cost of the meal before tax and tip).</p>
+<p>The second line has an integer, <em>tipPercent</em> (the percentage of <em>mealCost</em> being added as tip).</p>
+<p>The third line has an integer, <em>taxPercent</em> (the percentage of <em>mealCost</em> being added as tax).</p>
 
 # Output Format
 Print the total meal cost, where <em>totalCost</em> is the rounded integer result of teh entire bill (<em>mealCost</em> with added tax and tip).
