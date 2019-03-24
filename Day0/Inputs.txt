@@ -1,1 +1,5 @@
+Input 0:
+Welcome to 30 Days of Code!
 
+Input 1:
+HackerRank is the best!
