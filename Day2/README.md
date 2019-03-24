@@ -18,11 +18,9 @@ The third line has an integer, <em>taxPercent</em> (the percentage of <em>mealCo
 Print the total meal cost, where <em>totalCost</em> is the rounded integer result of teh entire bill (<em>mealCost</em> with added tax and tip).
 
 # Sample Input
-<code>
-<p>12.00</p>
-<p>20</p>
-<p>8</p>
-</code>
+<p><code>12.00</code></p>
+<p><code>20</code></p>
+<p><code>8</code></p>
 
 # Sample Output
 <code>15</code>
