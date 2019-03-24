@@ -19,20 +19,20 @@ Print the total meal cost, where <em>totalCost</em> is the rounded integer resul
 
 # Sample Input
 <code>
-12.00
-20
-8
+<p>12.00</p>
+<p>20</p>
+<p>8</p>
 </code>
 
 # Sample Output
 <code>15</code>
 
 # Explanation
-Given:
-<em>mealCost</em> = 12, <em>tipPercent</em> = 20, <em>taxPercent</em> = 8
-Calculations:
-<em>tip</em> = 12 x (20/100) = 2.4
-<em>tax</em> = 12 x (8/100) = 0.96
-<em>totalCost</em> = <em>mealCost</em> + <em>tip</em> + <em>tax</em> = 12 + 2.4 + 0.96 = 15.36
-<em>round(totalCost</em> = 15
-we round <em>totalCost</em> to the nearest dollar (integer) and then print our result, 15.
+<p>Given:</p>
+<p><em>mealCost</em> = 12, <em>tipPercent</em> = 20, <em>taxPercent</em> = 8</p>
+<p>Calculations:</p>
+<p><em>tip</em> = 12 x (20/100) = 2.4</p>
+<p><em>tax</em> = 12 x (8/100) = 0.96</p>
+<p><em>totalCost</em> = <em>mealCost</em> + <em>tip</em> + <em>tax</em> = 12 + 2.4 + 0.96 = 15.36</p>
+<p><em>round(totalCost</em> = 15</p>
+<p>we round <em>totalCost</em> to the nearest dollar (integer) and then print our result, 15.</p>
