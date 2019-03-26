@@ -59,7 +59,7 @@ You are old.
 
 # Explanation
 <p>Test Case 0: <i>initialAge</i> = -1</p>
-<p>Because<i>initialAge</i> < 0, our code must set <i>age<i> to 0 and print the "Age is not valid..." message followed by the young message. Three years pass and <i>age<i> = 3, so we pring the young message again.</p>
+<p>Because<i>initialAge</i> < 0, our code must set <i>age<i> to 0 and print the "Age is not valid..." message followed by the young message. Three years pass and <i>age</i> = 3, so we pring the young message again.</p>
 <p>Test Case 1:<i>initialAge</i> = 10</p>
 <p>Because <i>initialAge</i> < 13, our code should print that the person is young. Three years pass and <i>age</i> = 13, so we print that the person is now a teenager.</p>
 <p>Test Case 2:<i>initialAge</i> = 16</p>
