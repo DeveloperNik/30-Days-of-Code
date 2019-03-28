@@ -1,5 +1,6 @@
 # 30-Days-of-Code
-Hackerrank's 30 Days of Code Challenge
+<p>Hackerrank's 30 Days of Code Challenge</p>
+<p>Using HackerRank's 30 Days of Code Challenge to get comfortable with Markdown, Git, GitHub, and review basic coding principles with python</p>
 
 # Day 0
 Hello, World
