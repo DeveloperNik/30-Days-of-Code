@@ -25,3 +25,6 @@ Let's Review
 
 # Day 7
 Arrays
+
+# Day 8
+Dictionaries & Maps
