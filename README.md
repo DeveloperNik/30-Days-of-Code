@@ -22,3 +22,6 @@ Loops
 
 # Day 6
 Let's Review
+
+# Day 7
+Arrays
