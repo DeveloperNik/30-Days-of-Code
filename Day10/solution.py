@@ -10,8 +10,8 @@ import sys
 def count(num):
     count = 0
 
-    while (x != 0):
-        x = (x & (x << 1))
+    while (num != 0):
+        num = (num & (num << 1))
         count = count+1
 
     return count
