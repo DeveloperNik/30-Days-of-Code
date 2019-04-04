@@ -1,0 +1,15 @@
+Input 0:
+2
+Hacker
+Rank
+Output 0:
+Hce akr
+Rn ak
+
+Input 1:
+2
+ivvkxq
+ivvkx
+Output 1:
+ivx vkq
+ivx vk

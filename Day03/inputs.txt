@@ -1,0 +1,14 @@
+Input 0:
+3
+Output 0:
+Weird
+
+Input 1:
+24
+Output 1:
+Not Weird
+
+Input 2:
+20
+Output 2:
+Weird
