@@ -77,6 +77,6 @@ Grade: O
 
 # Explanation
 <p>
-The student had 2 scores to average: 100 and 80. The student's average grade is (100 + 80)/2 = 90. An average grade of 90 corresponds to the letter grade O, so our calculate9) method should return the character 'O'.
+The student had 2 scores to average: 100 and 80. The student's average grade is (100 + 80)/2 = 90. An average grade of 90 corresponds to the letter grade O, so our calculate) method should return the character 'O'.
 </p>
 
