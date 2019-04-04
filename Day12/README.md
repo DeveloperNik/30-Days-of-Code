@@ -23,8 +23,10 @@ Complete the Student class by writing the following:
 <li>A char calculate() method that calculates a Student object's average and returns a Student object's average and returns the grade character representative of their calculated average:</li>
 
    Grading Scale
+
 | Letter | Average (a)    |
-| ------ | -------------- |  |
+| ------ | -------------- |
 | **O**  | 90 ≤ *a* ≤ 100 |
+
 </ul>
 
