@@ -1,0 +1,17 @@
+Input 0:
+Heraldo Memelli 8135627
+2
+100 80
+Output 0:
+Name: Memelli, Heraldo
+ID: 8135627
+Grade: O
+
+Input 1:
+Aakansha Doshi 7825621
+4
+31 32 34 35
+Output 1:
+Name: Doshi, Aakansha
+ID: 7825621
+Grade: T
