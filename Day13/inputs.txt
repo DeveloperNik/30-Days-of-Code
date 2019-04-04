@@ -1,0 +1,17 @@
+Input 0:
+The Alchemist
+Paulo Coelho
+248
+Output 0:
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 248
+
+Input 1:
+Five Point Someone
+Chetan Bhagat
+270
+Output 1:
+Title: Five Point Someone
+Author: Chetan Bhagat
+Price: 270
