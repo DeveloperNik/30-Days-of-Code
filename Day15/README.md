@@ -76,6 +76,7 @@ The locked code in your editor prints the ordered data values for each element i
 <p>
 The list is initially empty, so <i>head</i> is null; accounting for this, our code returns a new node containing the data value 2 as the <i>head</i> of our list. We then create and insert ndoes 3, 4, and 1 at the tail of our list. The resulting list returned by the last call to <i>insert</i> is [2, 3, 4, 1], so the printed output is 2 3 4 1.
 </p>
+
 ![alt text](https://s3.amazonaws.com/hr-challenge-images/17168/1456961238-28488bfa0d-LinkedListExplanation.png)
 
 
