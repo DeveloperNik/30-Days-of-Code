@@ -43,3 +43,6 @@ Inheritance
 
 # Day 13
 Abstract Classes
+
+# Day 14
+Scope
