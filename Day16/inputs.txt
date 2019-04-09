@@ -1,0 +1,14 @@
+Input 0:
+3
+Output 0:
+3
+
+Input 1:
+za
+Output 1:
+Bad String
+
+Input 2:
+3134
+Output 2:
+3134
